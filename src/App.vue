@@ -54,7 +54,7 @@ export default {
   },
   watch: {
     user: function () {
-      this.isUserRegistered = true
+      this.isUserRegistered = false
     },
   },
 }

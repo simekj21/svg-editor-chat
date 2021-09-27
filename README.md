@@ -1,4 +1,14 @@
-# 02_konica_minolta
+# SVG - EDITOR - CHAT WEB SOCKET
+
+A) start and install WEBSOCKET server
+cd nodejs-server-echo
+
+npm install
+
+node server.js
+
+
+B) start and install app
 
 ## Project setup
 ```

@@ -1,5 +1,13 @@
 # SVG - EDITOR - CHAT WEB SOCKET
 
+DEMO IMAGE: DEMO_IMAGE.png
+
+WIREFRAME: SVGEDITCHAT_WIREFRAME.pdf
+
+
+
+INSTALLATION
+
 A) start and install WEBSOCKET server
 
 cd nodejs-server-echo

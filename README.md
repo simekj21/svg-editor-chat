@@ -1,6 +1,7 @@
 # SVG - EDITOR - CHAT WEB SOCKET
 
 A) start and install WEBSOCKET server
+
 cd nodejs-server-echo
 
 npm install

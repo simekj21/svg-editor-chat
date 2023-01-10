@@ -1,5 +1,10 @@
 # SVG - EDITOR - CHAT WEB SOCKET
 
+Simply communication with pictures through WEBSOCKET.
+
+![image](https://user-images.githubusercontent.com/43533811/211554629-8e67e204-c15d-4bf7-86b3-44fb1e6568b5.png)
+
+
 DEMO IMAGE: DEMO_IMAGE.png
 
 WIREFRAME: SVGEDITCHAT_WIREFRAME.pdf
